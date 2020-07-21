@@ -1,0 +1,2 @@
+# vinBob
+Termux.mod
